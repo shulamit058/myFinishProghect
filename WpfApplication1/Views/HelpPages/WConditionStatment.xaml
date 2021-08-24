@@ -1,0 +1,103 @@
+﻿<Window x:Class="WpfApplication1.HelpPages.WConditionStatment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="תנאים" Height="700" Width="400" MaxHeight="700" MaxWidth="400"  WindowStartupLocation="CenterScreen"
+        Icon="..\..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="654*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <RichTextBox Grid.Column="1" Grid.Row="1" Height="700" Width="368" Background="WhiteSmoke" Foreground="Black">
+            <FlowDocument  FlowDirection="RightToLeft" FontSize="16">
+                <Paragraph>
+                    <Span TextDecorations="Underline">
+                        <Run Text="תנאים"></Run>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="ניתן לשאול תנאים על משתנים."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="לדוג: אם(ציון &gt; 98 )"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="            הדפס(&quot;מעולה&quot;);"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="-בתנאי של אם לא יבוא ; בסוף כי זהו תנאי ."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="-מספר השורות "/>
+                    </Span>
+                    <Span>
+                        <Run Text="–"/>
+                    </Span>
+                    <Span>
+                        <Run Text=" כמו בלולאות ,"/>
+                        <Run Text="יותר משורה אחת בתנאי חייב לתחום בבלוק."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="כמו&quot;כ ניתן לתשאל תנאי מורכב ."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="דוג: אם (ציון &gt; 98 &amp;&amp; ציון &lt; 100)"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="       הדפס(&quot;אתה קרוב למאה&quot;);"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="או "/>
+                    </Span>
+                    <Span>
+                        <Run Text="–"/>
+                    </Span>
+                    <Span>
+                        <Run Text=" אם (ציון "/>
+                    </Span>
+                    <Span>
+                        <Run Text="== 98||"/>
+                    </Span>
+                    <Span FontFamily="Arial">
+                        <Run Text=" ציון == 99"/>
+                    </Span>
+                    <Span>
+                        <Run Text=")"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="הדפס(&quot;אתה קרוב למאה&quot;);"/>
+                    </Span>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>

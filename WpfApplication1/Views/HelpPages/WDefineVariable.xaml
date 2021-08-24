@@ -1,0 +1,104 @@
+﻿<Window x:Class="WpfApplication1.HelpPages.WDefineVariable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="משתנים" Height="700" Width="400" MaxHeight="700" MaxWidth="400"  WindowStartupLocation="CenterScreen"
+         Icon="..\..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="654*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <RichTextBox Grid.Column="1" Grid.Row="1" Height="700" Width="370" FlowDirection="RightToLeft" FontSize="16" Background="WhiteSmoke">
+            <FlowDocument>
+                <Paragraph>
+                    <Span TextDecorations="Underline">
+                        <Run Text="הגדרת משתנים:"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="ישנם מספר סוגי משתנים :שלם,ממשי,תו,מחרוזת,בוליאני."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="עמ&quot;נ להגדיר משתנה ראשית נכתוב את סוג המשתנה , ואח&quot;כ את שמו של המשתנה ,"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text="שלם-&gt;מספר_שלם"/>
+                        <Run Text="."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run/>
+                        <Run Text=" "/>
+                        <Run Text="ממשי-&gt;מספר_ממשי"/>
+                        <Run Text=" "/>
+                        <Run Text="."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run/>
+                        <Run Text="תו-&gt;תו"/>
+                        <Run Text="."/>
+                        <Run Text=" "/>
+                        <Run/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="מחרוזת-&gt;מחרוזת"/>
+                    <Run Text="."/>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="ולבחירה- אפשר לאתחלו או רק להצהיר ."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="דוג:מספר_שלם ציון = 98 ; "/>
+                    </Span>
+                    <Run Text=" "/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text=" "/>
+                    <Run Text="    או "/>
+                    <Run Text="מספר_שלם ציון ;"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="דוג:מספר_ממשי גיל = 22.2 ;"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="דוג:תו אות = 'ש' ; "/>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="דוג:מחרוזת שמי = ''חיים''; "/>
+                    </Span>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>

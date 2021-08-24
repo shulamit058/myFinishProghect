@@ -1,0 +1,65 @@
+﻿<Window x:Class="WpfApplication1.Views.HelpPages.WFunction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="הגדרת פונקציות" Height="700" Width="400" MaxHeight="700" MaxWidth="400"  WindowStartupLocation="CenterScreen"
+         Icon="..\..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="654*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <RichTextBox Grid.Column="1" Grid.Row="1">
+            <FlowDocument  FlowDirection="RightToLeft" FontSize="16">
+                <Paragraph>
+                    <Span TextDecorations="Underline">
+                        <Run Text="פונקציות."></Run>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text=" הינה מקטע קוד שלם , שמקבל פרמטרים , מבצע תהליך ומחזיר ערך כלשהו . בכדי
+להפעיל את הפונקציה יש לקרוא לה באמצעות כתיבת שמה . הפונקציה יכולה לקבל קלט
+( פרמטר אחד או יותר ) אשר ישפיע על פעולתה . לדוגמא : הפונקציה Max שמקבלת כקלט
+מספר כלשהו של ערכים מספריים , ומחזירה את הגדול מבניהם."></Run>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="הגדרה כללית של פונקציה"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="פונקציה ערך_מוחזר שם_הפונקציה (סוג שם_משתנה)"></Run>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="{}{"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="גוף_הפונקציה "/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="}"></Run>
+                    </Span>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+
+</Window>

@@ -1,0 +1,252 @@
+﻿<Window x:Class="WpfApplication1.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="עזרה" Height="700" Width="400" MaxHeight="700" MaxWidth="400" WindowStartupLocation="CenterScreen" 
+         Icon="..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="373*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="158*"/>
+            <RowDefinition Height="149*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.Column="1" Background="#a9a9a9">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="32*"/>
+                <RowDefinition Height="32*"/>
+                <RowDefinition Height="32*"/>
+                <RowDefinition Height="32*"/>
+                <RowDefinition Height="32*"/>
+                <RowDefinition Height="32*"/>
+                <RowDefinition Height="32*"/>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Click="DefineVariable">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="..\Pictures\P_Help\11.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="1" Click="DefineArr">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="..\Pictures\P_Help\22.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="2" Click="DefineMat">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="..\Pictures\P_Help\33.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="3" Click="ConditionStatment">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="..\Pictures\P_Help\44.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="4" Click="DefineFor">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="..\Pictures\P_Help\55.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="5" Click="InputOutput">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="..\Pictures\P_Help\66.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="6" Click="define_function">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="..\Pictures\P_Help\77.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="1">
+            <StackPanel>
+                <RichTextBox Background="WhiteSmoke" Foreground="Black" FontSize="15" Height="339">
+                    <FlowDocument>
+                        <Paragraph FlowDirection="RightToLeft">
+                            <Run FlowDirection="RightToLeft" Text="הדרכה לתוכנת ויזואל סטודיו :"/>
+                        </Paragraph>
+                        <Paragraph FlowDirection="RightToLeft" TextAlignment="Left">
+                            <Span FontFamily="Arial">
+                                <Run Text="PIYL- Programming In Your Language"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="  - "/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="הינה תוכנת עזר לתלמידי חטיבות הביניים ללימוד התחלתי של מדעי המחשב."/>
+                            </Span>
+                        </Paragraph>
+                        <Paragraph FlowDirection="RightToLeft" TextAlignment="Left">
+                            <Span FontFamily="Arial">
+                                <Run Text="התוכנה"/>
+                            </Span>
+                            <Run FontFamily="Arial" Text="מאפשרת למשתמש"/>
+                            <Span FontFamily="Arial">
+                                <Run Text="לכתוב קוד תיכנותי בעברית ע&quot;פ כללים."/>
+                            </Span>
+                            
+                        </Paragraph>
+                        <Paragraph FlowDirection="RightToLeft" Margin="Auto,Auto,0,Auto" TextAlignment="Left">
+                            <Run FontFamily="Arial" Text="התוכנה"/>
+                            <Span FontFamily="Arial">
+                                <Run Text="ממירה"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="אותו"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="לקוד"/>
+                            </Span>
+                            <Run FontFamily="Arial" Text="בשפת"/>
+                            <Run FontFamily="Arial" Text="C#,"/>
+                            <Run FontFamily="Arial" Text="ומריצה אותו בקומפילר."/>
+                        </Paragraph>
+                        <Paragraph FlowDirection="RightToLeft" TextAlignment="Left">
+                            <Span FontFamily="Arial">
+                                <Run Text="התוכנה"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="מספקת"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="ממשק"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="נוח"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="שמאפשר"/>
+                            </Span>
+                            <Run FontFamily="Arial" Text="למשתמש"/>
+                            <Run FontFamily="Arial" Text="לערוך/להעלות"/>
+                            <Span FontFamily="Arial">
+                                <Run Text="קובץ"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="הכתוב בעברית"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="ע&quot;פ הכללים."/>
+                            </Span>
+                        </Paragraph>
+                        <Paragraph FlowDirection="RightToLeft" TextAlignment="Left">
+                            <Span FontFamily="Arial">
+                                <Run Text="באופן"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="כזה"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="יקל"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="על"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="המורה"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="להפשיט לתלמיד"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="את"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="פקודות"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="התכנות"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="הבסיסיות,"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="כי"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="בעזרת"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="התוכנה"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="יוכל הסטודנט"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="המתחיל"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="ללמוד"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="ולהבין"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="את"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="הקוד"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="וכן"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="ילמד"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="ליישם"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="אלגוריתמים"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="ע"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="י"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="קוד,"/>
+                            </Span>
+                            <Span FontFamily="Arial">
+                                <Run Text="והשאיפה שיעבור בהמשך לתוכנת VisualStudio."/>
+                            </Span>
+                        </Paragraph>
+                        <Paragraph FlowDirection="RightToLeft">
+                            <Span FontFamily="Arial">
+                                <Run Text="כללים לכתיבת קוד :"/>
+                            </Span>
+                        </Paragraph>
+                        <Paragraph FlowDirection="RightToLeft">
+                            <Span FontFamily="Arial">
+                                <Run Text="בסוף כל משפט יבוא ;."/>
+                            </Span>
+                        </Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
+
+
+

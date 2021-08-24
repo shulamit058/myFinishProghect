@@ -1,0 +1,71 @@
+﻿<Window x:Class="WpfApplication1.HelpPages.WInputOutput"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="קלט/פלט" Height="700" Width="400" MaxHeight="700" MaxWidth="400"  WindowStartupLocation="CenterScreen"
+         Icon="..\..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="654*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <RichTextBox Grid.Column="1" Grid.Row="1" Height="700" Width="370" Background="WhiteSmoke" FontSize="16" FlowDirection="RightToLeft">
+            <FlowDocument>
+                <Paragraph>
+                    <Span TextDecorations="Underline">
+                        <Run Text="קלט:"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="בפקודה זו נוכל לקלוט משתנה מהמחשב לתוך משתנה שעליו הצהרנו קודם לכן ."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <!--<Run Text="מבנה הפקודה: קלוט(ציון +&quot;&quot;);"/>-->
+                        <Run Text="מבנה הפקודה:                                                   מספר_שלם   ציון   =   קלוט_מספר_שלם   ;"/>
+                        <Run Text="             וכן הלאה לכל סוגי המשתנים."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span TextDecorations="Underline">
+                        <Run Text="פלט"/>
+                    </Span>
+                    <Span TextDecorations="Underline">
+                        <Run Text=":"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="בפקודה זו נוכל להדפיס הודעה למשתמש וכן נוכל להדפיס ערכם של משתנים ."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="מבנה הפקודה: הדפס(&quot;שלום למשתמש שלנו!!&quot;);"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="הדפס(ציון +&quot;זהו ציוני!&quot;);"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Span>
+                        <Run Text="בהדפסת משתנה ומחרוזת יש לשרשר אותם ע&quot;י + בינהם."/>
+                    </Span>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>

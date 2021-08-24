@@ -1,0 +1,31 @@
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\bin\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\bin\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\obj\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\obj\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\Rabbit.Controls\bin\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\Rabbit.Controls\bin\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\Rabbit.Controls\obj\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\Rabbit.Controls\obj\Debug\Rabbit.Controls.pdb
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\Rabbit.Controls\bin\Debug\Rabbit.Controls.dll
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\Rabbit.Controls\bin\Debug\Rabbit.Controls.pdb
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\Rabbit.Controls\obj\Debug\Rabbit.Controls.dll
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\Rabbit.Controls\obj\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.dll
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\Rabbit.Controls\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\Rabbit.Controls\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.dll
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.pdb
+C:\Users\user\Desktop\פרויקט מירי!!!\Rabbit.Controls\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Desktop\פרויקט מירי!!!\Rabbit.Controls\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Desktop\פרויקט מירי!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.csprojAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט מירי!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט מירי!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.dll
+C:\Users\user\Desktop\פרויקט מירי!!!\Rabbit.Controls\obj\Debug\Rabbit.Controls.pdb

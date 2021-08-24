@@ -1,0 +1,25 @@
+E:\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

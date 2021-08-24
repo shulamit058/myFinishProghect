@@ -1,0 +1,4 @@
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\bin\Release\Rabbit.Controls.dll
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\bin\Release\Rabbit.Controls.pdb
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\obj\Release\Rabbit.Controls.dll
+C:\Users\תהילה\Desktop\WpfAplication1\Rabbit.Controls\obj\Release\Rabbit.Controls.pdb

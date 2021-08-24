@@ -1,0 +1,5 @@
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\TestProject1\obj\Debug\TestProject1.pdb

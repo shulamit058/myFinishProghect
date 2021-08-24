@@ -1,0 +1,646 @@
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\תהילה\Downloads\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\תהילה\Downloads\תהילה\פרויקט גמר\מבני ברק\WpfAplication1 - עותק - עותק\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+G:\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+G:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+G:\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+G:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+G:\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+G:\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Desktop\גרסאות פרויקט\גרסה אחרונה\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Desktop\WpfAplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\תהילה\Desktop\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\App.g.cs
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.baml
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.pdb
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Help.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\Open.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\App.g.cs
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\Views\MainWindow.baml
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+F:\אחרון ממש לבינתיים\אחרון ממש לבינתיים\פרויקט מירי ותהילה\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\תהילה\Music\Downloads\תהילה\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי  ותהילה סופי בה!!!\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\user\Documents\פרויקט גמר\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\bin\Debug\Rabbit.Controls.dll
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\bin\Debug\Rabbit.Controls.pdb
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Dictionary1.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Help.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Open.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\SafetyExit.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\WindowOpen.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Help.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WConditionStatment.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineArr.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineFor.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineMat.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WDefineVariable.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WFunction.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\HelpPages\WInputOutput.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\Open.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\SafetyExit.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\WindowOpen.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\Views\MainWindow.baml
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\user\Desktop\פרויקט מירי!!!\WpfApplication1\obj\Debug\WpfApplication1.pdb

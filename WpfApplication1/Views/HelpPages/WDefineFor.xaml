@@ -1,0 +1,146 @@
+﻿<Window x:Class="WpfApplication1.HelpPages.WDefineFor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="לולאות" Height="700" Width="400" MaxHeight="700" MaxWidth="400"  WindowStartupLocation="CenterScreen"
+        Icon="..\..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="654*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <RichTextBox Grid.Row="1" Height="700" Width="375" FontSize="16" Background="WhiteSmoke" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <FlowDocument>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span FontFamily="Arial" TextDecorations="Underline">
+                        <Run Text="לולאות :"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="כאשר אנו רוצים לחזור על פקודה כמה פעמים , אזי במקום שנכתוב את אותה פקודה כמה פעמים ."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="נתחום אותה בלולאה שתרוץ ככמות הפעמים שאנו מעוניינים."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span TextDecorations="Underline">
+                        <Run Text="ישנם 2 סוגי לולאות :"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span TextDecorations="Underline">
+                        <Run Text="*בעבור "/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text="–"/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text=" לולאה זו תרוץ ככמות הפעמים שנגדיר עבורה."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="מבנה: לולאה(שלם כמות =0"/>
+                    <Run Text="; "/>
+                    <Run Text="כמות &lt;9 "/>
+                    <Run Text=";"/>
+                    <Run Text="כמות++)"/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="-המשתנה כמות יכול להיות מוגדר בתוך הגדרת הלולאה כמובא פה , אך גם אפשר להגדירו גם למעלה."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="-בדר&quot;כ בהגדרת לולאה לא יבוא ; אלא א&quot;כ אנו לא רוצים לבצע בתוכה כלום אלא רק לגרום לה שתרוץ ככמות הפעמים שהוגדרו עבורה אזי נשים  "/>
+                    <Run Text=";"/>
+                    <Run Text="."/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="-אם אנו רוצים שרק שורה אחת תתבצע בתוך הלולאה אזי נכתוב אותו מתחת להגדרת הלולאה ,אך אם אנו רוצים שיותר משורה אחת תתבצע בתוך הלולאה נתחום אותו בבלוק ( זה סוגריים מסולסלות "/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span FontFamily="Arial">
+                        <Run Text="–"/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span FontFamily="Arial">
+                        <Run Text=" {} ובתוכם יבואו השורות שאותם אנו רוצים שיתבצעו."/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text="("/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span FontFamily="Calibri">
+                        <Run Text="*"/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span TextDecorations="Underline">
+                        <Run Text="כל_עוד "/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text="–"/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text=" לולאת כל עוד תתבצע כל עוד התנאי שבתוך הלולאה מתקיים ."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="מבנה:כל_עוד(כמות &lt; 9"/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text=")"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="-בלולאה זו חובה להגדיר על המשתנה כמות לפני הלולאה."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="-בלולאה זו לא ניתן לשים בסוף"/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text=";."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span>
+                        <Run Text="-מספר השורות "/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text="–"/>
+                    </Span>
+                    <Run Text=" "/>
+                    <Span>
+                        <Run Text=" כמו בלולאה הקודמת ,שורה אחת לא חובה לתחום ,ויותר חובה לתחום."/>
+                    </Span>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>

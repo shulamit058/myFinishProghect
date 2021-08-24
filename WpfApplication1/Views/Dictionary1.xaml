@@ -1,0 +1,51 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ControlTemplate x:Key="tb" TargetType="{x:Type Button}">
+        <Grid>
+            <Ellipse  Fill="{TemplateBinding Background}"></Ellipse>
+            <ContentPresenter HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               Content="{TemplateBinding Content}"
+                              
+                              ></ContentPresenter>
+        </Grid>
+    </ControlTemplate>
+    <ControlTemplate x:Key="itm" TargetType="{x:Type ListBoxItem}">
+        <Grid>
+            <Ellipse  Fill="{TemplateBinding Background}"></Ellipse>
+            <ContentPresenter HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               Content="{TemplateBinding Content}"
+                              
+                              ></ContentPresenter>
+        </Grid>
+    </ControlTemplate>
+    <ControlTemplate x:Key="rich" TargetType="{x:Type RichTextBox}">
+        <Grid>
+            <Ellipse  Fill="{TemplateBinding Background}"></Ellipse>
+            <ContentPresenter HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                              
+                              
+                              ></ContentPresenter>
+        </Grid>
+    </ControlTemplate> 
+    <!--<Style TargetType="Control" x:Key="baseStyle" >
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="FontWeight" Value="ExtraBold"/>
+    </Style>
+    החלת סטייל בצורה מפורשת
+    <Style x:Key="btnStyle" TargetType="Button">
+    החלת סטייל בצורה מרומזת
+    <Style TargetType="Button" BasedOn="{StaticResource baseStyle}">
+        <Setter Property="Background" >
+            <Setter.Value>
+                <RadialGradientBrush>
+                    <GradientStop Color="Green" Offset="1"/>
+                    <GradientStop Color="Red" Offset="0.5"/>
+                    <GradientStop Color="Yellow" />
+                </RadialGradientBrush>
+            </Setter.Value>
+        </Setter>-->
+      
+</ResourceDictionary>

@@ -1,0 +1,70 @@
+﻿<Window x:Class="WpfApplication1.HelpPages.WDefineMat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="מטריצות" Height="700" Width="400" MaxHeight="700" MaxWidth="400"  WindowStartupLocation="CenterScreen"
+        Icon="..\..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="654*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <RichTextBox Grid.Column="1" Grid.Row="1" Height="700" Width="370" FontSize="16" FlowDirection="RightToLeft" Background="WhiteSmoke">
+            <FlowDocument>
+                <Paragraph>
+                    <Span TextDecorations="Underline">
+                        <Run Text="הגדרת מטריצה:"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="הגדרת מטריצה דומה להגדרת מערך."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="ההבדל הוא שלמטריצה יש להגדיר שורות ועמודות,"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="סוגי המטריצות כפי שלמדנו על סוגי משתנים ."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="אפשר להגדיר מטריצה ,"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="דוג'"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontSize="14" Text="מספר_שלם [,] מטריצה= מספר_שלם [2,2]"/>
+                    <Run FontSize="14" Text=";"/>
+                </Paragraph>
+                <Paragraph>
+                    <!-- <Run Text="ב"/>
+                    <Run Text="ה"/>-->
+                    <Run Text="בהגדרה זו אנו הגדרנו את כמות השורות"/>
+                    <Span>
+                        <Run Text=" והעמודות של המטריצה"/>
+                    </Span>
+                    <Span>
+                        <Run FlowDirection="RightToLeft" Text="."/>
+                    </Span>
+                </Paragraph>
+                <Paragraph>
+                    <Run FlowDirection="RightToLeft" Text="אפשר גם מיד לאתחל עם שורת ההצהרה."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontSize="14" Text="מספר_שלם [,] מטריצה= מספר_שלם [2,2]{{100,95},{88,90}};"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>

@@ -1,0 +1,103 @@
+﻿<Window x:Class="WpfApplication1.HelpPages.WDefineArr"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="מערכים" Height="700" Width="400" MaxHeight="700" MaxWidth="400"  WindowStartupLocation="CenterScreen"
+         Icon="..\..\Pictures\לוגו1.png" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="654*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Column="2" Grid.RowSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <Grid Grid.Row="2" Grid.ColumnSpan="3" Background="#a9a9a9"/>
+        <RichTextBox Grid.Column="1" Grid.Row="1" FontSize="16" Height="700" Width="370" Background="WhiteSmoke">
+            <FlowDocument>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Span TextDecorations="Underline">
+                        <Run Text="הגדרת מערכים:"/>
+                    </Span>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="ישנם מספר סוגי מערכים הזהים לסוגי המשתנים "/>
+                    <Run Text=","/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="עמ&quot;נ להגדיר מערך יש לכתוב תחילה את סוג המערך "/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="לאחר מכן [] סוגרים מרובעים המעידים כי זהו לא משתנה רגיל אלא משתנה שמכיל מספר תאים - (לפי כמות התאים שנשים לו)"/>
+                    <Run Text=" "/>
+                    <Run Text="לאחר מכן נרשום את שמו של המערך .-זוהי ההצהרה."/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="לאחר מכן ישנה אופציה לאתחלו מיד בערכים הרצויים ואז לא צריך לכתוב לו גודל ."/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="דוגמאות :"/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="הצהרה בלבד -&gt;מספר_שלם[] ציונים ;"/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="הצהרה +גודל -&gt;מספר_שלם[]ציונים =מספר_שלם[10];"/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text="הצהרה+אתחול -&gt;מספר_שלם[]ציונים={10,9,8,4};"/>
+                </Paragraph>
+                <Paragraph FlowDirection="RightToLeft">
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+    <!--<StackPanel>
+            <RichTextBox Height="500" Width="380" Background="WhiteSmoke" Foreground="Orange">
+                <FlowDocument>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Span TextDecorations="Underline">
+                            <Run Text="הגדרת מערכים:"/>
+                        </Span>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="ישנם מספר סוגי מערכים הזהים לסוגי המשתנים "/>
+                        <Run Text=","/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="עמ&quot;נ להגדיר מערך יש לכתוב תחילה את סוג המערך "/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="לאחר מכן [] סוגרים מרובעים המעידים כי זהו לא משתנה רגיל אלא משתנה שמכיל מספר תאים - (לפי כמות התאים שנשים לו)"/>
+                        <Run Text=" "/>
+                        <Run Text="לאחר מכן נרשום את שמו של המערך .-זוהי ההצהרה."/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="לאחר מכן ישנה אופציה לאתחלו מיד בערכים הרצויים ואז לא צריך לכתוב לו גודל ."/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="דוגמאות :"/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="הצהרה בלבד -&gt;מספר_שלם[] ציונים ;"/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="הצהרה +גודל -&gt;מספר_שלם[]ציונים =מספר_שלם[10];"/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text="הצהרה+אתחול -&gt;מספר_שלם[]ציונים={10,9,8,4};"/>
+                    </Paragraph>
+                    <Paragraph FlowDirection="RightToLeft">
+                        <Run Text=""/>
+                    </Paragraph>
+                </FlowDocument>
+
+            </RichTextBox>
+        </StackPanel>-->
+</Window>
